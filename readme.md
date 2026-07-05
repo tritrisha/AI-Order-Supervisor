@@ -8,7 +8,7 @@ The system simulates how AI agents can manage long-running business workflows wi
 
 ## 🎬 Demo
 
-<img src="assets/demo.gif" width="800" />
+<img src="demo.gif" width="800" />
 
 ---
 
