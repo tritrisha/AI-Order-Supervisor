@@ -54,11 +54,13 @@ The system simulates how AI agents can manage long-running business workflows wi
                 ┌──────────────────────┐
                 │   Temporal Server    │
                 │ (Workflow Engine)    │
-                └─────────┬────────────┘
-                          │
+                └─────────┬────────────┘                    
               ┌───────────┴────────────┐
               ▼                        ▼
-┌──────────────────────┐   ┌──────────────────────┐
-│ Temporal Worker      │   │     Database         │
-│ (Workflow Logic + AI)│   │ (Runs, Events, etc.) │
-└──────────────────────┘   └──────────────────────┘
+    ┌──────────────────────┐   ┌──────────────────────┐
+    │ Temporal Worker      │   │     Database         │
+    │ (Workflow Logic + AI)│   │ (Runs, Events, etc.) │
+    └──────────────────────┘   └──────────────────────┘
+  
+
+
