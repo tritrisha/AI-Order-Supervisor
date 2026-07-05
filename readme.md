@@ -6,6 +6,12 @@ The system simulates how AI agents can manage long-running business workflows wi
 
 ---
 
+## 🎬 Demo
+
+<img src="assets/demo.gif" width="800" />
+
+---
+
 ## Features
 
 - Create and track order workflows
